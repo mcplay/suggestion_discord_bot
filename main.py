@@ -4,7 +4,7 @@ client = discord.Client()
 
 @client.event
 async def on_message(message):
-    if message.channel.name == "test":
+    if message.channel.name == "suggestion":
         await message.add_reaction("✅")
         await message.add_reaction("❌")
 
