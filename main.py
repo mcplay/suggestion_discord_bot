@@ -7,10 +7,7 @@ async def on_message(message):
     if message.channel.name == "suggestion":
         await message.add_reaction("✅")
         await message.add_reaction("❌")
-    if message.channel.name == "faq":
-        await message.add_reaction("👍")
-        await message.add_reaction("👎")
-    if message.channel.name == "update-log":
+    if message.channel.name == "faq" or message.channel.name == "update-log":
         await message.add_reaction("👍")
         await message.add_reaction("👎")
 
