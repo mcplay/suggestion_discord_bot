@@ -114,7 +114,7 @@ DepartmentRole_3: "Support"
 
 # System Message Configuration
 
-SystemMessages: "true"
+SystemMessages: "false"
 
 SystemMessage_Channel: "system-messages"
 SystemMessage_Type: "embed"
