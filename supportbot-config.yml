@@ -133,13 +133,12 @@ SystemMessage_EmbedFooter: "false"
 
 # LINKS Configuration
 
-LinksTitle: "Quick Links"
+LinksTitle: "Links"
 
 LINKS:
-  "Website": "https://www.example.com"
-  "Store": "https://store.example.com"
-  "Discord": "https://discord.gg/example"
-# "Twitter": "https://twitter.com/example"
+  "Website": "https://www.mcplay.biz"
+  "Discord": "https://discord.io/mcplay"
+  "Twitter": "https://twitter.com/MCPlayNetwork"
 
 # Suggestions Configuration
 
