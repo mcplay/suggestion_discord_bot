@@ -17,7 +17,7 @@ Token: "BOT_TOKEN_HERE"
 Prefix: "-"
 Bot_Name: "Support"
 
-BotActivity: "-help | SupportBot"
+BotActivity: "-help"
 StreamingURL: "https://www.twitch.tv/via_snake"
 # Must set ActivityType to STREAMING in order for Streaming URL to work in the bots status.
 
