@@ -15,7 +15,7 @@
 
 Token: "BOT_TOKEN_HERE"
 Prefix: "-"
-Bot_Name: "SupportBot"
+Bot_Name: "Support"
 
 BotActivity: "-help | SupportBot"
 StreamingURL: "https://www.twitch.tv/via_snake"
