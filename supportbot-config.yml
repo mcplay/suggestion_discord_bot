@@ -37,7 +37,7 @@ WarningColour: "#fca117"
 
 # Role Configuration
 
-AutoRole: "true"
+AutoRole: "false"
 # By setting "AutoRole to 'true' the bot will automatically apply the role below when members joins. Set to 'false' to disable this feature.
 AutoRole_Role: "Member"
 LockdownRole: "@everyone"
