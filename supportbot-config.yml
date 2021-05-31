@@ -29,7 +29,7 @@ DeleteMessages: "true"
 # Embed Configuration
 
 EmbedColour: "#04b545"
-EmbedFooter: "SupportBot | The #1 Supportive Discord Bot"
+EmbedFooter: "MCPlayNetwork"
 
 ErrorColour: "#d12519"
 SuccessColour: "#04b545"
