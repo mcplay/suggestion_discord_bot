@@ -151,7 +151,7 @@ SuggestReact_2: 👎
 # Announcement Configuration
 
 AnnouncementChannel: "announcements"
-AnnouncementTitle: "Servername Announcement"
+AnnouncementTitle: "Announcement"
 AnnouncementIcon: "https://i.imgur.com/HbkZyB7.png"
 
 AnnouncementStarter: "What would you like to announce?"
