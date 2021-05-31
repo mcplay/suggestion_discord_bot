@@ -91,7 +91,7 @@ CloseConfirmation: "true"
 
 # Ticket Department Configuration
 
-TicketDepartments: "true"
+TicketDepartments: "false"
 # This option enable or disable the ticket departments. If set false Ticket Departments will not work
 
 AllowStaff: "true"
