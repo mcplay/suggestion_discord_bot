@@ -48,11 +48,11 @@ TicketBlackListRole: "Blacklisted"
 
 # Ticket Configuration
 
-TicketChannel: "ticket"
-TicketCategory: "Tickets"
-TicketLog: "ticket-logs"
+TicketChannel: "support"
+TicketCategory: "――――― SUPPORT ―――――"
+TicketLog: "support-logs"
 TranscriptLog: "transcripts"
-TicketSubject: "description"
+TicketSubject: "embed"
 # TicketSubject: "description" means that the subject (reason) of the ticket will be displayed upon the channel description if set to "embed" it will be displayed within the embed.
 
 AllowTicketMentions: "true"
@@ -65,7 +65,7 @@ ReactionTickets: true
 ReactionMessage: "React with %reaction_emoji% to create a Support Ticket!"
 ReactionPanel_Description: true
 ReactionDescription: "Create a support ticket to contact a member of staff."
-ReactionChannel: "create-ticket"
+ReactionChannel: "support"
 ReactionEmoji: "📩"
 # Custom Emojis: <:test:EMOJI_ID>
 ReactionPanel_Thumbnail: true
